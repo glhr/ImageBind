@@ -18,6 +18,6 @@ setup(
         'Programming Language :: Python :: 3',
         'License :: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International',
     ],
-    install_requires=required,
-    dependency_links=['https://download.pytorch.org/whl/cu113'],
+    #install_requires=required,
+    #dependency_links=['https://download.pytorch.org/whl/cu113'],
 )
